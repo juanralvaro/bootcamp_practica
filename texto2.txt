@@ -1,0 +1,2 @@
+Éste es el segundo texto de prueba dentro de las pruebas de Git del bootcamp de Data Science e IA.
+La anterior línea se ha pasado de duración.
